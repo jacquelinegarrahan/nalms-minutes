@@ -26,4 +26,4 @@ The purpose of this meeting is to review the preliminary timeline and hour estim
 * GOAL: System in production by the end of the fiscal year
 * Difficult to plan past January. Forecasting will be more effective after phoebus alarm system architecture mapping and preliminary design review. 
 * DECISION: Move forward with the current timeline with expectation to revise in December
-* ACTION ITEM: Jackie willl reformat and clean up the document into a proper table view
+* ACTION ITEM: Jackie will reformat and clean up the document into a proper table view
