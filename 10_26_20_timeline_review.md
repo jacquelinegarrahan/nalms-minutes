@@ -10,8 +10,8 @@ The purpose of this meeting is to review the preliminary timeline and hour estim
 
 ## Timeline review
 ### Requirements deliverable
-* Give weights to requirements and divide into nice to have vs. need to have (w/ Matt Gibbs and William Colocho)
-* Remove GUI requirements for configuration json/xml with clear formatting guidelines
+* ACTION ITEM: Give weights to requirements and divide into nice to have vs. need to have (w/ Matt Gibbs and William Colocho)
+* ACTION ITEM: Remove GUI requirements in favor of configuration w/ json/xml and clear formatting guidelines
 
 ### Demo
 * First demo, aim to satisfy as many requirements as possible
@@ -26,4 +26,4 @@ The purpose of this meeting is to review the preliminary timeline and hour estim
 * GOAL: System in production by the end of the fiscal year
 * Difficult to plan past January. Forecasting will be more effective after phoebus alarm system architecture mapping and preliminary design review. 
 * DECISION: Move forward with the current timeline with expectation to revise in December
-* Jackie willl reformat and clean up the document into a proper table view
+* ACTION ITEM: Jackie willl reformat and clean up the document into a proper table view
