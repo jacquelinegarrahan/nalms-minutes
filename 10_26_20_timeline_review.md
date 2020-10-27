@@ -15,7 +15,7 @@ The purpose of this meeting is to review the preliminary timeline and hour estim
 
 ### Demo
 * First demo, aim to satisfy as many requirements as possible
-* RESOLUTION: Adding alarm filter on bypass variable will be sufficient for first demo
+* RESOLUTION: Filtering alarms by bypass pv will be sufficient representation of Alarm IOC integration for the first demo.
 * Second demo with expanded functionality will be after designated development months
 
 ### Client/alerting development
