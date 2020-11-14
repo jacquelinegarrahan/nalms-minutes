@@ -12,13 +12,13 @@ Purpose: Short-term planning for pushing requirements work forward
 ## Requirements consensus
 * Hold intermediate review meeting week from Monday
 * ACTION ITEM (Ernest): Compile list of attendees for intermediate requirement review
-* ACTION ITEM: Ernest will put together a list of attendees for this 
-* * Include sign off individuals + Debbie's recommendations
+* ACTION ITEM (Ernest): Ernest will put together a list of attendees for this 
+    * Include sign off individuals + Debbie's recommendations
 
 ## General comments
-* Ernest: Suggests (Jackie) review full functionality of EPICS alarm system
-* Will set up standing biweekly alarms meeting to review progress
-* ACTION ITEM: Ernest will decide list of attendees
+* Ernest: Suggests Jackie directly review full functionality of EPICS alarm system
+* Will set up standing biweekly alarms meeting to review progress 
+* ACTION ITEM (Ernest): Decide list of attendees
 
 ## CSWG 11/16
 * Review short-term plan for requirements
