@@ -7,7 +7,7 @@ Purpose: Short-term planning for pushing requirements work forward
 * Ernest: would like to formally close the requirements gathering phase via document control
 * ACTION ITEM (Jackie): Will include priority rankings and break down via engineer / physicist
 * ACTION ITEM (Jackie): Will complete use cases, features, and formatting 
-* Permissable to add forward references for requirements subject to resources
+* Greg: Permissible to add forward references for requirements subject to resources
 
 ## Requirements consensus
 * Hold intermediate review meeting week from Monday
