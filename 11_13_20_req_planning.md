@@ -16,7 +16,7 @@ Purpose: Short-term planning for pushing requirements work forward
     * Include sign off individuals + Debbie's recommendations
 
 ## General comments
-* Ernest: Suggests Jackie directly review full functionality of EPICS alarm system
+* Ernest: Suggests Jackie conduct direct code review for full functionality of EPICS alarm system
 * Will set up standing biweekly alarms meeting to review progress 
 * ACTION ITEM (Ernest): Decide list of attendees
 
