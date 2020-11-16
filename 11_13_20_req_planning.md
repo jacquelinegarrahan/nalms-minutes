@@ -25,3 +25,8 @@ Purpose: Short-term planning for pushing requirements work forward
 * Provide deadlines for participation in rankings
 * Set meeting date for the intermediate requirements review
 * Announce recurring meeting
+
+## Follow up Ernest 11/16
+* Intermediate requirements consensus: Jingchen Zhou, Mike Zelazny, Jeremy Mock, William Colocho, Matt Gibbs
+* Bi-weekly alarm invite: Jingchen Zhou, Mike Zelazny, Jeremy Mock, William Colocho, Matt Gibbs
+* Prelim sign-off : Bryce Jacobson, Tim Maxwell, Alex Wallace, Debbie Rogind, Peter Schuh
