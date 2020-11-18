@@ -29,4 +29,4 @@ Purpose: Short-term planning for pushing requirements work forward
 ## Follow up Ernest 11/16
 * Intermediate requirements consensus: Jingchen Zhou, Mike Zelazny, Jeremy Mock, William Colocho, Matt Gibbs
 * Bi-weekly alarm invite: Jingchen Zhou, Mike Zelazny, Jeremy Mock, William Colocho, Matt Gibbs
-* Prelim sign-off : Bryce Jacobson, Tim Maxwell, Alex Wallace, Debbie Rogind, Peter Schuh
+* Draft sign-off list: Bryce Jacobson, Tim Maxwell, Alex Wallace, Debbie Rogind, Peter Schuh
